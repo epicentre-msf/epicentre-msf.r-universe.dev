@@ -1,0 +1,38 @@
+[
+    {
+        "package": "epishiny",
+        "url": "https://github.com/epicentre-msf/epishiny"
+    },
+    {
+        "package": "epivis",
+        "url": "https://github.com/epicentre-msf/epivis"
+    },
+    {
+        "package": "hmatch",
+        "url": "https://github.com/epicentre-msf/hmatch"
+    },
+    {
+        "package": "nmatch",
+        "url": "https://github.com/epicentre-msf/nmatch"
+    },
+    {
+        "package": "dbc",
+        "url": "https://github.com/epicentre-msf/dbc"
+    },
+    {
+        "package": "qxl",
+        "url": "https://github.com/epicentre-msf/qxl"
+    },
+    {
+        "package": "rpxl",
+        "url": "https://github.com/epicentre-msf/rpxl"
+    },
+    {
+        "package": "redcap",
+        "url": "https://github.com/epicentre-msf/redcap"
+    },
+    {
+        "package": "queryr",
+        "url": "https://github.com/epicentre-msf/queryr"
+    }
+]
