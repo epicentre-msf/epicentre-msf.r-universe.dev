@@ -34,5 +34,9 @@
     {
         "package": "queryr",
         "url": "https://github.com/epicentre-msf/queryr"
+    },
+    {
+        "package": "fieldmaps",
+        "url": "https://github.com/epicentre-msf/fieldmaps"
     }
 ]
